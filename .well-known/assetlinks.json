@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pablomasello.temon",
+    "sha256_cert_fingerprints": [
+      "E3:89:F7:EA:D7:3D:8F:84:F5:54:23:C1:B9:6F:E1:EF:AA:62:76:7F:89:49:DD:A5:8E:DB:12:9B:76:A0:BB:B6",
+      "3D:4C:39:57:61:08:85:04:C7:D2:C7:07:D7:40:71:CB:67:9D:B0:5F:17:75:15:8F:DF:79:F1:AD:62:EC:B4:AF"
+    ]
+  }
+}]
